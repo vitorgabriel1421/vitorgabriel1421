@@ -1,4 +1,13 @@
-### Hi there 👋
+**Olá, sejam bem vindos**
+
+**Meu nome é Vitor 🐱**
+
+-Estudante do ensino médio;
+
+-Aprendendo sobre programação;
+
+-utilizo esse espaço para atividades escolares;
+
 
 <!--
 **vitorgabriel1421/vitorgabriel1421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
